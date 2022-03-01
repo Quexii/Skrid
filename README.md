@@ -13,4 +13,4 @@
 #### **Making variables - numbers -> ```:var(variable_name(60))```**
 
 # If you want to help out dm me on Discord!
-## 👉 Shoroa_#4084
+## Shoroa_#4084
