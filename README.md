@@ -11,3 +11,6 @@
 #### **Printing variables -> ```:print(:var(variable_name))```**
 #### **Making variables - strings -> ```:var(variable_name("String here!"))```**
 #### **Making variables - numbers -> ```:var(variable_name(60))```**
+
+# If you want to help out dm me on Discord!
+## 👉 Shoroa_#4084
